@@ -1,0 +1,803 @@
+{
+    "riesgo": {
+        "puntaje": "644",
+        "nivel_riesgo": "De cada 100 empresas con este Score, se espera que 13 de ellas incumplan en sus pagos durante los próximos 12 meses.",
+        "conclusion": "Riesgo Medio"
+    },
+    "direcciones": [
+        {
+            "fecha": "19/01/2017",
+            "descripcion": "AV. ALAMEDA DE LA PAZ 105",
+            "telefono": null,
+            "anexo": null,
+            "fuente": "APORTANTES PRIVADOS",
+            "ubigeo": "LIMA"
+        },
+        {
+            "fecha": "23/07/2016",
+            "descripcion": "AV. ALAMEDA DE LA PAZ 105  LA MOLINA",
+            "telefono": null,
+            "anexo": null,
+            "fuente": "APORTANTES PRIVADOS",
+            "ubigeo": "LIMA"
+        },
+        {
+            "fecha": "27/11/2013",
+            "descripcion": "AV. DEL RIO 307",
+            "telefono": null,
+            "anexo": null,
+            "fuente": "SUNAT",
+            "ubigeo": "PUEBLO LIBRE (MAGDALENA VIEJA) - LIMA - LIMA"
+        }
+    ],
+    "directorio": [
+        {
+            "ruc": "20555530090",
+            "razonSocial": "COMPANIA INCUBADORA DE SOLUCIONES MOVILES S.A.C.   CISMO S.A.C.",
+            "nombreComercial": "CULQI",
+            "tipoContribuyente": "SOCIEDAD ANONIMA CERRADA",
+            "estadoContribuyente": "ACTIVO",
+            "condicionContribuyente": "HABIDO",
+            "dependencia": "I.R.LIMA-MEPECO",
+            "ciiu": null,
+            "codigoCIIU": "72909",
+            "descripcionCIIU": "OTRAS ACTIVIDADES DE INFORMATICA",
+            "inicioActividades": "18/12/2013",
+            "actividadComercioExterior": "SIN ACTIVIDAD",
+            "padron": null,
+            "direcciones": [
+                "AV. ALAMEDA DE LA PAZ 105  EL REMANSO ESQUINA AV LOS FRESNOS"
+            ]
+        }
+    ],
+    "representantes": [
+        {
+            "nombres": "NALVARTE GARCIA AMPARO",
+            "tipoDocumento": "1",
+            "numeroDocumento": "00046088887",
+            "cargo": "GERENTE GENERAL",
+            "fecha": "14/11/2013"
+        }
+    ],
+    "deuda": [],
+    "deudas_historicas": [
+        {
+            "calificacion": "NOR",
+            "porcentaje": "100",
+            "nroEntidades": 1,
+            "deudaVigente": 0,
+            "deudaAtrasada": 0,
+            "deudaJudicial": 0,
+            "deudaCastigada": 0,
+            "deudaTotal": 0,
+            "diasAtraso": 0,
+            "periodo": "201707"
+        },
+        {
+            "calificacion": "NOR",
+            "porcentaje": "100",
+            "nroEntidades": 1,
+            "deudaVigente": 0,
+            "deudaAtrasada": 0,
+            "deudaJudicial": 0,
+            "deudaCastigada": 0,
+            "deudaTotal": 0,
+            "diasAtraso": 0,
+            "periodo": "201706"
+        },
+        {
+            "calificacion": "NOR",
+            "porcentaje": "100",
+            "nroEntidades": 1,
+            "deudaVigente": 0,
+            "deudaAtrasada": 0,
+            "deudaJudicial": 0,
+            "deudaCastigada": 0,
+            "deudaTotal": 0,
+            "diasAtraso": 0,
+            "periodo": "201705"
+        },
+        {
+            "calificacion": "NOR",
+            "porcentaje": "100",
+            "nroEntidades": 1,
+            "deudaVigente": 0,
+            "deudaAtrasada": 0,
+            "deudaJudicial": 0,
+            "deudaCastigada": 0,
+            "deudaTotal": 0,
+            "diasAtraso": 0,
+            "periodo": "201704"
+        },
+        {
+            "calificacion": "NOR",
+            "porcentaje": "100",
+            "nroEntidades": 1,
+            "deudaVigente": 0,
+            "deudaAtrasada": 0,
+            "deudaJudicial": 0,
+            "deudaCastigada": 0,
+            "deudaTotal": 0,
+            "diasAtraso": 0,
+            "periodo": "201703"
+        },
+        {
+            "calificacion": "NOR",
+            "porcentaje": "100",
+            "nroEntidades": 2,
+            "deudaVigente": 24,
+            "deudaAtrasada": 0,
+            "deudaJudicial": 0,
+            "deudaCastigada": 0,
+            "deudaTotal": 24,
+            "diasAtraso": 0,
+            "periodo": "201702"
+        },
+        {
+            "calificacion": "NOR",
+            "porcentaje": "100",
+            "nroEntidades": 1,
+            "deudaVigente": 0,
+            "deudaAtrasada": 0,
+            "deudaJudicial": 0,
+            "deudaCastigada": 0,
+            "deudaTotal": 0,
+            "diasAtraso": 0,
+            "periodo": "201701"
+        },
+        {
+            "calificacion": "NOR",
+            "porcentaje": "100",
+            "nroEntidades": 2,
+            "deudaVigente": 167,
+            "deudaAtrasada": 0,
+            "deudaJudicial": 0,
+            "deudaCastigada": 0,
+            "deudaTotal": 167,
+            "diasAtraso": 4,
+            "periodo": "201612"
+        },
+        {
+            "calificacion": "NOR",
+            "porcentaje": "100",
+            "nroEntidades": 1,
+            "deudaVigente": 0,
+            "deudaAtrasada": 0,
+            "deudaJudicial": 0,
+            "deudaCastigada": 0,
+            "deudaTotal": 0,
+            "diasAtraso": 0,
+            "periodo": "201611"
+        },
+        {
+            "calificacion": "NOR",
+            "porcentaje": "100",
+            "nroEntidades": 1,
+            "deudaVigente": 0,
+            "deudaAtrasada": 0,
+            "deudaJudicial": 0,
+            "deudaCastigada": 0,
+            "deudaTotal": 0,
+            "diasAtraso": 0,
+            "periodo": "201610"
+        },
+        {
+            "calificacion": "NOR",
+            "porcentaje": "100",
+            "nroEntidades": 1,
+            "deudaVigente": 0,
+            "deudaAtrasada": 0,
+            "deudaJudicial": 0,
+            "deudaCastigada": 0,
+            "deudaTotal": 0,
+            "diasAtraso": 0,
+            "periodo": "201609"
+        },
+        {
+            "calificacion": null,
+            "porcentaje": null,
+            "nroEntidades": 0,
+            "deudaVigente": 0,
+            "deudaAtrasada": 0,
+            "deudaJudicial": 0,
+            "deudaCastigada": 0,
+            "deudaTotal": 0,
+            "diasAtraso": 0,
+            "periodo": "201608"
+        },
+        {
+            "calificacion": "NOR",
+            "porcentaje": "100",
+            "nroEntidades": 1,
+            "deudaVigente": 0,
+            "deudaAtrasada": 0,
+            "deudaJudicial": 0,
+            "deudaCastigada": 0,
+            "deudaTotal": 0,
+            "diasAtraso": 0,
+            "periodo": "201607"
+        },
+        {
+            "calificacion": "NOR",
+            "porcentaje": "100",
+            "nroEntidades": 1,
+            "deudaVigente": 0,
+            "deudaAtrasada": 0,
+            "deudaJudicial": 0,
+            "deudaCastigada": 0,
+            "deudaTotal": 0,
+            "diasAtraso": 0,
+            "periodo": "201606"
+        },
+        {
+            "calificacion": "NOR",
+            "porcentaje": "100",
+            "nroEntidades": 1,
+            "deudaVigente": 0,
+            "deudaAtrasada": 0,
+            "deudaJudicial": 0,
+            "deudaCastigada": 0,
+            "deudaTotal": 0,
+            "diasAtraso": 0,
+            "periodo": "201605"
+        },
+        {
+            "calificacion": "NOR",
+            "porcentaje": "100",
+            "nroEntidades": 1,
+            "deudaVigente": 0,
+            "deudaAtrasada": 0,
+            "deudaJudicial": 0,
+            "deudaCastigada": 0,
+            "deudaTotal": 0,
+            "diasAtraso": 0,
+            "periodo": "201604"
+        },
+        {
+            "calificacion": "NOR",
+            "porcentaje": "100",
+            "nroEntidades": 1,
+            "deudaVigente": 0,
+            "deudaAtrasada": 0,
+            "deudaJudicial": 0,
+            "deudaCastigada": 0,
+            "deudaTotal": 0,
+            "diasAtraso": 0,
+            "periodo": "201603"
+        },
+        {
+            "calificacion": "NOR",
+            "porcentaje": "100",
+            "nroEntidades": 2,
+            "deudaVigente": 93,
+            "deudaAtrasada": 0,
+            "deudaJudicial": 0,
+            "deudaCastigada": 0,
+            "deudaTotal": 93,
+            "diasAtraso": 28,
+            "periodo": "201602"
+        },
+        {
+            "calificacion": "NOR",
+            "porcentaje": "100",
+            "nroEntidades": 2,
+            "deudaVigente": 31,
+            "deudaAtrasada": 0,
+            "deudaJudicial": 0,
+            "deudaCastigada": 0,
+            "deudaTotal": 31,
+            "diasAtraso": 0,
+            "periodo": "201601"
+        },
+        {
+            "calificacion": "NOR",
+            "porcentaje": "100",
+            "nroEntidades": 1,
+            "deudaVigente": 0,
+            "deudaAtrasada": 0,
+            "deudaJudicial": 0,
+            "deudaCastigada": 0,
+            "deudaTotal": 0,
+            "diasAtraso": 0,
+            "periodo": "201512"
+        },
+        {
+            "calificacion": "NOR",
+            "porcentaje": "100",
+            "nroEntidades": 1,
+            "deudaVigente": 0,
+            "deudaAtrasada": 0,
+            "deudaJudicial": 0,
+            "deudaCastigada": 0,
+            "deudaTotal": 0,
+            "diasAtraso": 0,
+            "periodo": "201511"
+        },
+        {
+            "calificacion": "NOR",
+            "porcentaje": "100",
+            "nroEntidades": 1,
+            "deudaVigente": 0,
+            "deudaAtrasada": 0,
+            "deudaJudicial": 0,
+            "deudaCastigada": 0,
+            "deudaTotal": 0,
+            "diasAtraso": 0,
+            "periodo": "201510"
+        },
+        {
+            "calificacion": "NOR",
+            "porcentaje": "100",
+            "nroEntidades": 1,
+            "deudaVigente": 0,
+            "deudaAtrasada": 0,
+            "deudaJudicial": 0,
+            "deudaCastigada": 0,
+            "deudaTotal": 0,
+            "diasAtraso": 0,
+            "periodo": "201509"
+        },
+        {
+            "calificacion": "NOR",
+            "porcentaje": "100",
+            "nroEntidades": 1,
+            "deudaVigente": 0,
+            "deudaAtrasada": 0,
+            "deudaJudicial": 0,
+            "deudaCastigada": 0,
+            "deudaTotal": 0,
+            "diasAtraso": 0,
+            "periodo": "201508"
+        },
+        {
+            "calificacion": "NOR",
+            "porcentaje": "100",
+            "nroEntidades": 1,
+            "deudaVigente": 0,
+            "deudaAtrasada": 0,
+            "deudaJudicial": 0,
+            "deudaCastigada": 0,
+            "deudaTotal": 0,
+            "diasAtraso": 0,
+            "periodo": "201507"
+        },
+        {
+            "calificacion": "NOR",
+            "porcentaje": "100",
+            "nroEntidades": 1,
+            "deudaVigente": 0,
+            "deudaAtrasada": 0,
+            "deudaJudicial": 0,
+            "deudaCastigada": 0,
+            "deudaTotal": 0,
+            "diasAtraso": 0,
+            "periodo": "201506"
+        },
+        {
+            "calificacion": "NOR",
+            "porcentaje": "100",
+            "nroEntidades": 1,
+            "deudaVigente": 0,
+            "deudaAtrasada": 0,
+            "deudaJudicial": 0,
+            "deudaCastigada": 0,
+            "deudaTotal": 0,
+            "diasAtraso": 0,
+            "periodo": "201505"
+        },
+        {
+            "calificacion": "NOR",
+            "porcentaje": "100",
+            "nroEntidades": 1,
+            "deudaVigente": 0,
+            "deudaAtrasada": 0,
+            "deudaJudicial": 0,
+            "deudaCastigada": 0,
+            "deudaTotal": 0,
+            "diasAtraso": 0,
+            "periodo": "201504"
+        },
+        {
+            "calificacion": "NOR",
+            "porcentaje": "100",
+            "nroEntidades": 1,
+            "deudaVigente": 0,
+            "deudaAtrasada": 0,
+            "deudaJudicial": 0,
+            "deudaCastigada": 0,
+            "deudaTotal": 0,
+            "diasAtraso": 0,
+            "periodo": "201503"
+        },
+        {
+            "calificacion": "NOR",
+            "porcentaje": "100",
+            "nroEntidades": 1,
+            "deudaVigente": 0,
+            "deudaAtrasada": 0,
+            "deudaJudicial": 0,
+            "deudaCastigada": 0,
+            "deudaTotal": 0,
+            "diasAtraso": 0,
+            "periodo": "201502"
+        },
+        {
+            "calificacion": null,
+            "porcentaje": null,
+            "nroEntidades": 0,
+            "deudaVigente": 0,
+            "deudaAtrasada": 0,
+            "deudaJudicial": 0,
+            "deudaCastigada": 0,
+            "deudaTotal": 0,
+            "diasAtraso": 0,
+            "periodo": "201501"
+        },
+        {
+            "calificacion": null,
+            "porcentaje": null,
+            "nroEntidades": 0,
+            "deudaVigente": 0,
+            "deudaAtrasada": 0,
+            "deudaJudicial": 0,
+            "deudaCastigada": 0,
+            "deudaTotal": 0,
+            "diasAtraso": 0,
+            "periodo": "201412"
+        },
+        {
+            "calificacion": null,
+            "porcentaje": null,
+            "nroEntidades": 0,
+            "deudaVigente": 0,
+            "deudaAtrasada": 0,
+            "deudaJudicial": 0,
+            "deudaCastigada": 0,
+            "deudaTotal": 0,
+            "diasAtraso": 0,
+            "periodo": "201411"
+        },
+        {
+            "calificacion": null,
+            "porcentaje": null,
+            "nroEntidades": 0,
+            "deudaVigente": 0,
+            "deudaAtrasada": 0,
+            "deudaJudicial": 0,
+            "deudaCastigada": 0,
+            "deudaTotal": 0,
+            "diasAtraso": 0,
+            "periodo": "201410"
+        },
+        {
+            "calificacion": null,
+            "porcentaje": null,
+            "nroEntidades": 0,
+            "deudaVigente": 0,
+            "deudaAtrasada": 0,
+            "deudaJudicial": 0,
+            "deudaCastigada": 0,
+            "deudaTotal": 0,
+            "diasAtraso": 0,
+            "periodo": "201409"
+        },
+        {
+            "calificacion": null,
+            "porcentaje": null,
+            "nroEntidades": 0,
+            "deudaVigente": 0,
+            "deudaAtrasada": 0,
+            "deudaJudicial": 0,
+            "deudaCastigada": 0,
+            "deudaTotal": 0,
+            "diasAtraso": 0,
+            "periodo": "201408"
+        },
+        {
+            "calificacion": null,
+            "porcentaje": null,
+            "nroEntidades": 0,
+            "deudaVigente": 0,
+            "deudaAtrasada": 0,
+            "deudaJudicial": 0,
+            "deudaCastigada": 0,
+            "deudaTotal": 0,
+            "diasAtraso": 0,
+            "periodo": "201407"
+        },
+        {
+            "calificacion": null,
+            "porcentaje": null,
+            "nroEntidades": 0,
+            "deudaVigente": 0,
+            "deudaAtrasada": 0,
+            "deudaJudicial": 0,
+            "deudaCastigada": 0,
+            "deudaTotal": 0,
+            "diasAtraso": 0,
+            "periodo": "201406"
+        },
+        {
+            "calificacion": null,
+            "porcentaje": null,
+            "nroEntidades": 0,
+            "deudaVigente": 0,
+            "deudaAtrasada": 0,
+            "deudaJudicial": 0,
+            "deudaCastigada": 0,
+            "deudaTotal": 0,
+            "diasAtraso": 0,
+            "periodo": "201405"
+        },
+        {
+            "calificacion": null,
+            "porcentaje": null,
+            "nroEntidades": 0,
+            "deudaVigente": 0,
+            "deudaAtrasada": 0,
+            "deudaJudicial": 0,
+            "deudaCastigada": 0,
+            "deudaTotal": 0,
+            "diasAtraso": 0,
+            "periodo": "201404"
+        },
+        {
+            "calificacion": null,
+            "porcentaje": null,
+            "nroEntidades": 0,
+            "deudaVigente": 0,
+            "deudaAtrasada": 0,
+            "deudaJudicial": 0,
+            "deudaCastigada": 0,
+            "deudaTotal": 0,
+            "diasAtraso": 0,
+            "periodo": "201403"
+        },
+        {
+            "calificacion": null,
+            "porcentaje": null,
+            "nroEntidades": 0,
+            "deudaVigente": 0,
+            "deudaAtrasada": 0,
+            "deudaJudicial": 0,
+            "deudaCastigada": 0,
+            "deudaTotal": 0,
+            "diasAtraso": 0,
+            "periodo": "201402"
+        },
+        {
+            "calificacion": null,
+            "porcentaje": null,
+            "nroEntidades": 0,
+            "deudaVigente": 0,
+            "deudaAtrasada": 0,
+            "deudaJudicial": 0,
+            "deudaCastigada": 0,
+            "deudaTotal": 0,
+            "diasAtraso": 0,
+            "periodo": "201401"
+        },
+        {
+            "calificacion": null,
+            "porcentaje": null,
+            "nroEntidades": 0,
+            "deudaVigente": 0,
+            "deudaAtrasada": 0,
+            "deudaJudicial": 0,
+            "deudaCastigada": 0,
+            "deudaTotal": 0,
+            "diasAtraso": 0,
+            "periodo": "201312"
+        },
+        {
+            "calificacion": null,
+            "porcentaje": null,
+            "nroEntidades": 0,
+            "deudaVigente": 0,
+            "deudaAtrasada": 0,
+            "deudaJudicial": 0,
+            "deudaCastigada": 0,
+            "deudaTotal": 0,
+            "diasAtraso": 0,
+            "periodo": "201311"
+        },
+        {
+            "calificacion": null,
+            "porcentaje": null,
+            "nroEntidades": 0,
+            "deudaVigente": 0,
+            "deudaAtrasada": 0,
+            "deudaJudicial": 0,
+            "deudaCastigada": 0,
+            "deudaTotal": 0,
+            "diasAtraso": 0,
+            "periodo": "201310"
+        },
+        {
+            "calificacion": null,
+            "porcentaje": null,
+            "nroEntidades": 0,
+            "deudaVigente": 0,
+            "deudaAtrasada": 0,
+            "deudaJudicial": 0,
+            "deudaCastigada": 0,
+            "deudaTotal": 0,
+            "diasAtraso": 0,
+            "periodo": "201309"
+        },
+        {
+            "calificacion": null,
+            "porcentaje": null,
+            "nroEntidades": 0,
+            "deudaVigente": 0,
+            "deudaAtrasada": 0,
+            "deudaJudicial": 0,
+            "deudaCastigada": 0,
+            "deudaTotal": 0,
+            "diasAtraso": 0,
+            "periodo": "201308"
+        }
+    ],
+    "sicom_total_deudas_impagas": {
+        "fechaVencimientoReciente": "07/09/2015",
+        "cantidadSoles": 1,
+        "montoSoles": 118.56,
+        "cantidadDolares": 0,
+        "montoDolares": 0
+    },
+    "sicom_detalle_deudas_impagas": [
+        {
+            "fechaVencimiento": "07/09/2015",
+            "fechaReportada": "19/01/2017",
+            "divisa": "S",
+            "monto": 118.56,
+            "acreedor": "TELEFONICA MOVILES SA",
+            "documentoBancario": "CON",
+            "condicionDeuda": "MOROSA",
+            "tipoDeudor": "D"
+        }
+    ],
+    "negativo_sunat_cabecera": null,
+    "otras_deudas_impagas": {
+        "resumen_deudas_impagas": [
+            {
+                "periodo": "201607",
+                "tieneDeuda": true,
+                "productoDeudaImpagas": {
+                    "codigoProducto": 2,
+                    "deudaSoles": 118.56,
+                    "deudaDolares": 0
+                }
+            },
+            {
+                "periodo": "201608",
+                "tieneDeuda": true,
+                "productoDeudaImpagas": {
+                    "codigoProducto": 2,
+                    "deudaSoles": 118.56,
+                    "deudaDolares": 0
+                }
+            },
+            {
+                "periodo": "201609",
+                "tieneDeuda": true,
+                "productoDeudaImpagas": {
+                    "codigoProducto": 2,
+                    "deudaSoles": 118.56,
+                    "deudaDolares": 0
+                }
+            },
+            {
+                "periodo": "201610",
+                "tieneDeuda": true,
+                "productoDeudaImpagas": {
+                    "codigoProducto": 2,
+                    "deudaSoles": 118.56,
+                    "deudaDolares": 0
+                }
+            },
+            {
+                "periodo": "201611",
+                "tieneDeuda": true,
+                "productoDeudaImpagas": {
+                    "codigoProducto": 2,
+                    "deudaSoles": 118.56,
+                    "deudaDolares": 0
+                }
+            },
+            {
+                "periodo": "201612",
+                "tieneDeuda": true,
+                "productoDeudaImpagas": {
+                    "codigoProducto": 2,
+                    "deudaSoles": 118.56,
+                    "deudaDolares": 0
+                }
+            },
+            {
+                "periodo": "201701",
+                "tieneDeuda": true,
+                "productoDeudaImpagas": {
+                    "codigoProducto": 2,
+                    "deudaSoles": 118.56,
+                    "deudaDolares": 0
+                }
+            },
+            {
+                "periodo": "201702",
+                "tieneDeuda": true,
+                "productoDeudaImpagas": {
+                    "codigoProducto": 2,
+                    "deudaSoles": 118.56,
+                    "deudaDolares": 0
+                }
+            },
+            {
+                "periodo": "201703",
+                "tieneDeuda": true,
+                "productoDeudaImpagas": {
+                    "codigoProducto": 2,
+                    "deudaSoles": 118.56,
+                    "deudaDolares": 0
+                }
+            },
+            {
+                "periodo": "201704",
+                "tieneDeuda": true,
+                "productoDeudaImpagas": {
+                    "codigoProducto": 2,
+                    "deudaSoles": 118.56,
+                    "deudaDolares": 0
+                }
+            },
+            {
+                "periodo": "201705",
+                "tieneDeuda": true,
+                "productoDeudaImpagas": {
+                    "codigoProducto": 2,
+                    "deudaSoles": 118.56,
+                    "deudaDolares": 0
+                }
+            },
+            {
+                "periodo": "201706",
+                "tieneDeuda": true,
+                "productoDeudaImpagas": {
+                    "codigoProducto": 2,
+                    "deudaSoles": 118.56,
+                    "deudaDolares": 0
+                }
+            },
+            {
+                "periodo": "201707",
+                "tieneDeuda": true,
+                "productoDeudaImpagas": {
+                    "codigoProducto": 2,
+                    "deudaSoles": 118.56,
+                    "deudaDolares": 0
+                }
+            }
+        ],
+        "sicom": {
+            "fechaVencimientoReciente": "07/09/2015",
+            "cantidadSoles": null,
+            "montoSoles": 118.56,
+            "cantidadDolares": 0,
+            "montoDolares": 0,
+            "deudas": [
+                {
+                    "fechaVencimiento": "07/09/2015",
+                    "fechaReportada": "19/01/2017",
+                    "divisa": "S",
+                    "monto": 118.56,
+                    "acreedor": "TELEFONICA MOVILES SA",
+                    "documentoBancario": "CON",
+                    "condicionDeuda": "MOROSA",
+                    "tipoDeudor": "D"
+                }
+            ]
+        },
+        "protesto": {},
+        "deudas_afp": []
+    }
+}
